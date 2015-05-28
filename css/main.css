@@ -1,0 +1,30 @@
+.wallpaper{
+    background: url("/img/backgrnd/backgrnd-img2.jpg") no-repeat ;
+    background-size: cover;
+
+}
+.table-back{
+    opacity:0.9;
+    background-color: aliceblue;
+    margin:0;
+    vertical-align: middle;
+}
+.title-name{
+    color:#2C18D3;
+}
+.bio-data{
+    opacity:0.9;
+    background-color: aliceblue;
+    text-align:center;
+
+}
+
+b {
+    border: 7px;
+}
+.back-link{
+    color:blue;
+    background-color: white;
+    opacity:0.9;
+    margin:0;
+}

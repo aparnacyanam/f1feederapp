@@ -1,0 +1,29 @@
+{
+  "name": "feeder-f1",
+  "version": "1.0.0",
+  "description": "A Single page application showing F1 Racing Championship driver details and standings, built using node and angular",
+  "main": "nodeServer.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://acyanam@bitbucket.org/acyanam/f1feederapp.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "angular",
+    "rest",
+    "basicapp",
+    "spa"
+  ],
+  "author": "aparna cyanam",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/acyanam/f1feederapp#readme"
+}
